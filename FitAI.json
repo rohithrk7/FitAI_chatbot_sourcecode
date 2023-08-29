@@ -1,0 +1,14 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey"],
+    "bot_response": "hey welcome to FitAI chatbot assistant how can i help you ?",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye", "thanks"],
+    "bot_response": "Thank you for shopping our new AI shoppping see you again \n ",
+    "required_words": []
+  }
+]
